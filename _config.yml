@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-   avatar           :# "profile.png"
+  avatar           : # "profile.png"
   name             : "Johannes Girsch"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "TEST"
+  location         : #"Earth"
   employer         : "University of Sheffield"
   uri              : # URL
   email            : "johannes . girsch [at] sheff.uk" 
